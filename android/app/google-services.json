@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786028151902",
+    "project_id": "cosmos-48f27",
+    "storage_bucket": "cosmos-48f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786028151902:android:ca85845c13f07b4c1860cf",
+        "android_client_info": {
+          "package_name": "com.example.firestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786028151902-9dn18i25n9lkoe1raj9uce2524ohiguu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcPQNBLZzs0mwXTEpwTrbk-J36Ja4lKpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786028151902-9dn18i25n9lkoe1raj9uce2524ohiguu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
