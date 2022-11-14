@@ -7,8 +7,9 @@ import 'package:get/get.dart';
 import 'classes/appUser.dart';
 import 'control_panel.dart';
 import 'firebase_options.dart';
-//furkan
+//dfasd
 //ibo
+//sfasg
 //ortakibo
 late Appuser stateCurrentUser;
 Future<void> main() async {
@@ -28,3 +29,5 @@ class MyApp extends StatelessWidget {
     return MaterialApp(home: ControlPanel());
   }
 }
+//31ci ibo
+//3333333333333333
