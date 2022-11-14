@@ -7,7 +7,7 @@ import 'package:get/get.dart';
 import 'classes/appUser.dart';
 import 'control_panel.dart';
 import 'firebase_options.dart';
-//222
+//ibo
 late Appuser stateCurrentUser;
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
