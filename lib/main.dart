@@ -8,6 +8,7 @@ import 'classes/appUser.dart';
 import 'control_panel.dart';
 import 'firebase_options.dart';
 //ibo
+//ortakibo
 late Appuser stateCurrentUser;
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
