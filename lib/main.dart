@@ -9,6 +9,7 @@ import 'control_panel.dart';
 import 'firebase_options.dart';
 //furkan
 //ibo
+//ortakdeğişiklikfurkan
 late Appuser stateCurrentUser;
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
